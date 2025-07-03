@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 7755332,
+      "category": "education",
+      "title": "Tech for Good Workshop",
+      "description": "Learn how to build apps that make a positive impact.",
+      "location": "Code City",
+      "date": "August 10, 2022",
+      "time": "09:30",
+      "petsAllowed": false,
+      "organizer": "Devina Learnwell"
     }
   ]
 }
